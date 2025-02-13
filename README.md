@@ -4,6 +4,7 @@ Chinese American Heritage in Idaho
 
 Resources for the Chinese American Heritage in Idaho Teaching Trunk
 
+Matt Fuerst, University of Idaho Archeology (Mark Warner). 
 
 ----------
 

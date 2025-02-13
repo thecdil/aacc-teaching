@@ -8,26 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+## About The Project
 
-## About CollectionBuilder CSV
+This website is here to support the Chinese American Heritage in Idaho Teaching Trunk. You’ll find links to extra resources, a gallery of cool images, historical tidbits, and downloadable forms from the Chinese American Heritage in Idaho teaching trunk to make your experience even smoother. 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The whole purpose of this project is to educate people about Chinese Americans in Idaho and the rich history of Chinese communities in the state. From the early days of mining and railroad work to the vibrant contributions of Chinese Americans today, this trunk is all about sharing stories that often go untold. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+These trunks are the product of a collaborative effort between the University of Idaho and the [Asian American Comparative Collection](https://www.uidaho.edu/class/anthrolab/collections/aacc), with incredible support from educators and Chinese American community members throughout the state.  
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Right now, there are two teaching trunks ready to be checked out--one in Moscow, Idaho, at the Asian American Comparative Collection, and another in Boise at the Idaho State Historical Society. These trunks are packed with 16 unique lessons covering everything from archaeology and Chinese American history to work life, community life, family life, and even the incredible accomplishments of present-day Chinese American communities. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+But it’s not just about reading and learning--these trunks are all about doing! Students can get hands-on with historic artifacts, try their hand at mock gold panning, practice calligraphy, explore historic buildings in Idaho, and even interact with a GIS map. This website has even more activities for students. From crossword puzzles and printable jigsaw puzzles to coloring pages and driving tours of historic sites across the state. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Please enjoy this website and thank you for using our teaching trunks.  
