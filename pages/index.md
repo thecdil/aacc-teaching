@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+{% include feature/jumbotron.html objectid="gallery-4-4" %}
+
 ## About The Project
 
 This website is here to support the Chinese American Heritage in Idaho Teaching Trunk. You’ll find links to extra resources, a gallery of cool images, historical tidbits, and downloadable forms from the Chinese American Heritage in Idaho teaching trunk to make your experience even smoother. 
