@@ -16,6 +16,6 @@ These trunks are the product of a collaborative effort between the University of
 
 Right now, there are two teaching trunks ready to be checked out--one in Moscow, Idaho, at the Asian American Comparative Collection, and another in Boise at the Idaho State Historical Society. These trunks are packed with 16 unique lessons covering everything from archaeology and Chinese American history to work life, community life, family life, and even the incredible accomplishments of present-day Chinese American communities. 
 
-But it’s not just about reading and learning--these trunks are all about doing! Students can get hands-on with historic artifacts, try their hand at mock gold panning, practice calligraphy, explore historic buildings in Idaho, and even interact with a GIS map. This website has even more activities for students. From crossword puzzles and printable jigsaw puzzles to coloring pages and driving tours of historic sites across the state. 
+But it’s not just about reading and learning—these trunks are all about doing! Students can get hands-on with historic artifacts, try their hand at mock gold panning, practice calligraphy, explore historic buildings in Idaho, and even interact with a GIS map. This website has even more activities for students. From crossword puzzles and printable jigsaw puzzles to coloring pages. 
 
 Please enjoy this website and thank you for using our teaching trunks.  
