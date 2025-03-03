@@ -1,0 +1,20 @@
+---
+title: Activities
+layout: page
+permalink: /activities.html
+---
+<h2>Activities</h2>
+
+<p>Downloadable activity sheets to supplement the teaching trunks.</p>
+
+{% assign cats = site.data.activities | map: 'category' | uniq %}
+{% for cat in cats %}
+<h3>{{ cat }}</h3>
+<ul class="mb-4">
+{% assign activities = site.data.activities | where: 'category', cat %}
+{% for a in activities %}
+<li><a href="{{ '/objects/' | relative_url }}{{ a.filename }}">{{ a.title }}</a>{% if a.creator %}, by {{ a.creator }}{% endif %}</li>
+
+{% endfor %}
+</ul>
+{% endfor %}
