@@ -13,7 +13,7 @@ permalink: /activities.html
 <ul class="mb-4">
 {% assign activities = site.data.activities | where: 'category', cat %}
 {% for a in activities %}
-<li><a href="{{ '/objects/' | relative_url }}{{ a.filename }}">{{ a.title }}</a>{% if a.creator %}, by {{ a.creator }}{% endif %}</li>
+<li><a href="{% if a.filename contains '/' %}{{ a.filename }}{% else %}{{ '/objects/' | relative_url }}{{ a.filename }}{% endif %}">{{ a.title }}</a>{% if a.creator %}, by {{ a.creator }}{% endif %}</li>
 
 {% endfor %}
 </ul>
