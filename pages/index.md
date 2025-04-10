@@ -19,3 +19,5 @@ Right now, there are two teaching trunks ready to be checked out--one in Moscow,
 But it’s not just about reading and learning—these trunks are all about doing! Students can get hands-on with historic artifacts, try their hand at mock gold panning, practice calligraphy, explore historic buildings in Idaho, and even interact with a GIS map. This website has even more activities for students. From crossword puzzles and printable jigsaw puzzles to coloring pages. 
 
 Please enjoy this website and thank you for using our teaching trunks.  
+
+<div class="text-center my-4"><a href="https://www.uidaho.edu/class/anthrolab/collections/aacc" title="University of Idaho Asian American Comparative Collection"><img src="{{ '/assets/img/UI_Asian_American_Collection_full_color_horizontal_RGB.png' | relative_url }}" class="img-fluid w-25" alt="University of Idaho Asian American Comparative Collection"></a></div>
